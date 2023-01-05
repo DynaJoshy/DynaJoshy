@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DynaJoshy
-- 👀 I’m interested in less lines of code:)
+
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate with web developers and build web apps
 
