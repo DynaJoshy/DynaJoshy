@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm a Data Enthusiast</h1>
 <p>A sapien from India</p>
 <h2>🚀 Languages and Tools I Use</h2>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="<iframe src="https://giphy.com/embed/n07Zvo9UtALcaw1kA9"/>
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
