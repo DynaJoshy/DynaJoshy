@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Data Enthusiast</h1>
+<h1>Hi 👋, I'm a Data Enthusiast</h1>
 <p>A sapien from India</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
