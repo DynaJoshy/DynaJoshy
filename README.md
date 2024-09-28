@@ -1,8 +1,7 @@
 <h1>Hi 👋, I'm a Data Enthusiast</h1>
 <p>A sapien from India</p>
 <h2>🚀 Languages and Tools I Use</h2>
-<img align="right" height="150" src="<iframe src="https://giphy.com/embed/n07Zvo9UtALcaw1kA9"/>
-
+<iframe src="https://giphy.com/embed/n07Zvo9UtALcaw1kA9" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Veeam-developing-programing-veeam-n07Zvo9UtALcaw1kA9">via GIPHY</a></p>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
