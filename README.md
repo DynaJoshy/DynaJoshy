@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm a Data Enthusiast</h1>
 <p>A sapien from India</p>
-![my_gif](https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr)
+![my_gif](https://github.com/DynaJoshy/DynaJoshy/blob/main/sample.gif)
 
 <h2>🚀 Languages and Tools I Use</h2>
 
