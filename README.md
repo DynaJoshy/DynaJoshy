@@ -22,6 +22,6 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/dyna-joshy" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
  <a href="your-twitter-URL">
-  <p><a target="_blank" href="https://www.github.DynaJoshy.io"style="display: inline-block;"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+  <p><a target="_blank" href="https://dynajoshy.github.io/portfolio/"style="display: inline-block;"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a></p>
 
