@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm a Data Enthusiast</h1>
+<h1>Hi 👋, I'm Dyna, a Data Enthusiast</h1>
 <p>A sapien from India</p>
 <img src="https://github.com/DynaJoshy/DynaJoshy/blob/main/sample.gif" width="300" />
 <h2>🚀 Languages and Tools I Use</h2>
