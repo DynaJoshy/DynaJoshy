@@ -1,10 +1,18 @@
-<!-- 💫 NEON ANIMATED README -->
+<!-- ⚡ NEON READ.ME with Subtle Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Dyna+⚡;Data+Enthusiast+%7C+ML+Explorer+%7C+Insight+Architect;Turning+data+into+neon-lit+insights+💫" alt="Typing animation header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00FFF5&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dyna+⚡;Welcome+to+my+Data+Universe+💫" alt="Typing Animation"/>
 </p>
 
+<h3 align="center">
+  <span style="color:#00fff5;">💡 Data Enthusiast</span> |
+  <span style="color:#ff00ff;">🤖 ML Explorer</span> |
+  <span style="color:#c8f7ff;">🔮 Insight Architect</span>
+</h3>
+
+<p align="center" style="color:#c8f7ff;">A curious sapien from 🇮🇳 India — decoding the world through data.</p>
+
 <p align="center">
-  <img src="https://github.com/DynaJoshy/DynaJoshy/blob/main/sample.gif" alt="Animated intro GIF" width="320" />
+  <img src="https://github.com/DynaJoshy/DynaJoshy/blob/main/sample.gif" alt="Animated introduction" width="320" />
 </p>
 
 ---
@@ -57,7 +65,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00fff5,100:ff00ff&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00fff5,100:ff00ff&height=100&section=footer" alt="Footer wave" />
 </p>
 
 <p align="center" style="color:#00fff5;">
