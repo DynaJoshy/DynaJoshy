@@ -31,7 +31,7 @@
 ## 🌈 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vue,django,tensorflow,pytorch,pandas,opencv,sklearn,mysql,postgresql,grafana,firebase,linux,git&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,vue,django,tensorflow,pytorch,pandas,opencv,sklearn,mysql,postgresql,grafana,neo4j,prismafirebase,linux,n8n&theme=dark" alt="Tech Stack"/>
 </p>
 
 ---
@@ -55,10 +55,10 @@
   <a href="https://www.linkedin.com/in/dyna-joshy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00fff5?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://dynajoshy.netlify.app/" target="_blank">
+  <!-- <a href="https://dynajoshy.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-ff00ff?style=for-the-badge&logo=About.me&logoColor=000000" alt="Website Badge"/>
-  </a>
-  <a href="mailto:dynajoshy@gmail.com">
+  </a> -->
+  <a href="mailto:joshydyna@gmail.com">
     <img src="https://img.shields.io/badge/Email-c8f7ff?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email Badge"/>
   </a>
 </p>
@@ -70,5 +70,5 @@
 </p>
 
 <p align="center" style="color:#00fff5;">
-  ✨ “Turning data into neon-lit insights.” ✨
+  ✨ Turning data into neon-lit insights. ✨
 </p>
