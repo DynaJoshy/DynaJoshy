@@ -1,6 +1,6 @@
 <!-- ⚡ NEON READ.ME with Subtle Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00FFF5&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dyna+⚡;Welcome+to+my+Data+Universe+💫" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00FFF5&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dyna+⚡;Let's play around with some neurons.💫" alt="Typing Animation"/>
 </p>
 
 <h3 align="center">
