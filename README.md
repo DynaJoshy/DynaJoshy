@@ -21,9 +21,8 @@
 ## 🌠 About Me
 
 - 🚀 Passionate about **Data Science**, **Machine Learning**, and **Visualization**  
-- 🧠 Currently diving deep into **Deep Learning** and **MLOps**  
-- 🛠️ Skilled in **Python**, **Django**, **TensorFlow**, **Pandas**, and **OpenCV**  
-- 🎯 Believer in **Data + Creativity = Insightful Magic**  
+- 🧠 Currently diving deep into **Deep Learning** and **MLOps**   
+- 🎯 **Data + Creativity = Insightful Magic**  
 - ⚡ Fun fact: I can find patterns in just about anything 😄  
 
 ---
@@ -31,7 +30,7 @@
 ## 🌈 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vuejs,django,tensorflow,pytorch,pandas,sklearn,opencv,mysql,postgresql,grafana,firebase,linux,git,prisma,neo4j,n8n&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,elasticsearch,gcp,mongodb,sklearn,opencv,postgresql,mysql,firebase,linux,git,prisma,nextjs,&theme=dark" alt="Tech Stack" />
 </p>
 
 
