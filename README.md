@@ -27,7 +27,7 @@
 
 ---
 
-## 🌈 Tech Stack
+## 🌈 Leveling Up
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,elasticsearch,gcp,mongodb,sklearn,opencv,postgresql,mysql,firebase,linux,git,prisma,nextjs,&theme=dark" alt="Tech Stack" />
@@ -37,16 +37,16 @@
 
 ---
 
-## 🧬 GitHub Analytics
+<!--## 🧬 GitHub Analytics>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DynaJoshy&show_icons=true&theme=radical&title_color=00fff5&icon_color=ff00ff&text_color=c8f7ff&bg_color=000000" alt="Dyna's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DynaJoshy&theme=radical&background=000000&ring=ff00ff&fire=00fff5&currStreakLabel=c8f7ff" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DynaJoshy&bg_color=000000&color=00fff5&line=ff00ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
+</p> -->
 
 ---
 
