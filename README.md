@@ -1,44 +1,66 @@
-<h1 align="center">👋 Hi, I'm Dyna — A Data Enthusiast</h1>
+<!-- 🌌 NEON PORTFOLIO README -->
+<h1 align="center" style="color:#00fff5;">⚡ Hey there, I'm Dyna ⚡</h1>
+<h3 align="center" style="color:#ff00ff;">💡 Data Enthusiast | 🤖 ML Explorer | 🔮 Insight Architect</h3>
 
-<p align="center">🌍 A sapien from India 🇮🇳</p>
+<p align="center" style="color:#c8f7ff;">A curious sapien from 🇮🇳 India — finding order in the chaos of data!</p>
 
 <p align="center">
-  <img src="https://github.com/DynaJoshy/DynaJoshy/blob/main/sample.gif" alt="Animated introduction" width="300" />
+  <img src="https://github.com/DynaJoshy/DynaJoshy/blob/main/sample.gif" alt="Animated introduction" width="320" />
 </p>
 
 ---
 
-<h2 align="center">🚀 Languages & Tools I Use</h2>
+## 🌠 About Me
+
+- 🚀 Passionate about **Data Science**, **AI**, and **Visualization**  
+- 🧠 Currently exploring **Deep Learning** & **MLOps**  
+- 🛠️ Skilled in **Python**, **Django**, **TensorFlow**, and **Pandas**  
+- 🎯 Believer in **Data + Creativity = Magic**  
+- ⚡ Fun fact: I find beauty in messy datasets ✨  
+
+---
+
+## 🌈 Tech Stack
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="42" height="42"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="42" height="42"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="42" height="42"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="42" height="42"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="42" height="42"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="42" height="42"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/></a>
-  <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="42" height="42"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="42" height="42"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/></a>
+  <img src="https://skillicons.dev/icons?i=python,vue,django,tensorflow,pytorch,pandas,opencv,sklearn,mysql,postgresql,grafana,firebase,linux,git&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
 
-<!-- 
-<h2 align="center">⚡️ Where to Find Me</h2>
+## 🧬 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dyna-joshy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DynaJoshy&show_icons=true&theme=radical&title_color=00fff5&icon_color=ff00ff&text_color=c8f7ff&bg_color=000000" alt="Dyna's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DynaJoshy&theme=radical&background=000000&ring=ff00ff&fire=00fff5&currStreakLabel=c8f7ff" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DynaJoshy&bg_color=000000&color=00fff5&line=ff00ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dyna-joshy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00fff5?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn Badge"/>
   </a>
   <a href="https://dynajoshy.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-ff00ff?style=for-the-badge&logo=About.me&logoColor=000000" alt="Website Badge"/>
+  </a>
+  <a href="mailto:dynajoshy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-c8f7ff?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email Badge"/>
   </a>
 </p>
--->
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00fff5,100:ff00ff&height=100&section=footer" alt="footer" />
+</p>
+
+<p align="center" style="color:#00fff5;">
+  ✨ “Turning data into neon-lit insights.” ✨
+</p>
