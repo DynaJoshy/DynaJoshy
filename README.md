@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-    <span style="color:#c8f7ff;">💻 Software Engineer </span>
+    <span style="color:#c8f7ff;">💻 Software Engineer </span> |
   <span style="color:#00fff5;">💡 Data Enthusiast</span> |
   <span style="color:#ff00ff;">🤖 ML Explorer</span> |
 </h3>
