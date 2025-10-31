@@ -31,8 +31,9 @@
 ## 🌈 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vue,django,tensorflow,pytorch,pandas,opencv,sklearn,mysql,postgresql,grafana,neo4j,prismafirebase,linux,n8n&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,vuejs,django,tensorflow,pytorch,pandas,opencv,scikitlearn,mysql,postgresql,grafana,firebase,linux,git,prisma,neo4j,n8n&theme=dark" alt="Tech Stack" />
 </p>
+
 
 ---
 
