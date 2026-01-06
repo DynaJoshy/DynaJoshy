@@ -18,13 +18,6 @@
 
 ---
 
-## 🌠 About Me
-
-- 🚀 Passionate about **Data Science**, **Machine Learning**, and **Visualization**  
-- 🧠 Currently diving deep into **Deep Learning** and **MLOps**   
-- ⚡ Fun fact: I can find patterns in just about anything 😄  
-
----
 
 ## 🌈 Leveling Up
 
