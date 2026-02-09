@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-    <span style="color:#c8f7ff;">💻 Software Engineer </span> |
+    <span style="color:#c8f7ff;">💻 Software Engineer </span> 
 </h3>
 
 <p align="center" style="color:#c8f7ff;">A curious sapien from 🇮🇳 India — decoding the world through data.</p>
