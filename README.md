@@ -1,65 +1,59 @@
-<!-- ⚡ NEON READ.ME with Subtle Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00FFF5&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dyna+%E2%9A%A1" alt="Typing Animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF5,100:3498db&height=200&section=header&text=Dyna%20Joshy&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header"/>
 </p>
 
-
-<h3 align="center">
-    <span style="color:#c8f7ff;">💻 Software Engineer </span> 
-</h3>
-
-<p align="center" style="color:#c8f7ff;">A curious sapien from 🇮🇳 India — decoding the world through data.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Data+Science+Architect;Full-Stack+AI+Developer" alt="Typing Animation"/>
+</p>
 
 <p align="center">
-  <img src="https://github.com/DynaJoshy/DynaJoshy/blob/main/sample.gif" alt="Animated introduction" width="320" />
+  <a href="https://linkedin.com/in/YOUR_USER"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
+### 🧠 Profile Overview
+I am a Software Engineer based in India, specializing in bridging the gap between **complex data architectures** and **scalable ML solutions**. I build systems that don't just process data—they understand it.
 
-## 🌈 Leveling Up
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,elasticsearch,gcp,mongodb,sklearn,opencv,postgresql,mysql,firebase,linux,git,prisma,nextjs,&theme=dark" alt="Tech Stack" />
-</p>
-
-
+* 🔭 **Currently exploring:** LLM Fine-tuning and Vector Databases (Pinecone/Milvus).
+* ⚡ **Core Philosophy:** "If the data is the soul, the architecture is the nervous system."
+* 🌱 **Learning:** Advanced Reinforcement Learning and Cloud Native AI.
 
 ---
 
-<!--## 🧬 GitHub Analytics>
+### 🛠️ Technical Ecosystem
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DynaJoshy&show_icons=true&theme=radical&title_color=00fff5&icon_color=ff00ff&text_color=c8f7ff&bg_color=000000" alt="Dyna's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DynaJoshy&theme=radical&background=000000&ring=ff00ff&fire=00fff5&currStreakLabel=c8f7ff" alt="GitHub Streak" height="165"/>
-</p>
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **AI / Machine Learning** | `TensorFlow` `PyTorch` `Scikit-Learn` `OpenCV` |
+| **Data Engineering** | `PostgreSQL` `MongoDB` `Elasticsearch` `Firebase` |
+| **Cloud & DevOps** | `GCP` `Linux` `Git` `Docker` |
+| **Full Stack** | `Next.js` `Prisma` `Python` `C++` |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DynaJoshy&bg_color=000000&color=00fff5&line=ff00ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p> -->
-
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dyna-joshy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00fff5?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn Badge"/>
-  </a>
-  <!-- <a href="https://dynajoshy.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-ff00ff?style=for-the-badge&logo=About.me&logoColor=000000" alt="Website Badge"/>
-  </a> -->
-  <a href="mailto:joshydyna@gmail.com">
-    <img src="https://img.shields.io/badge/Email-c8f7ff?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email Badge"/>
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,gcp,postgres,mongodb,elastic,nextjs,prisma,git,linux&theme=dark" />
 </p>
 
 ---
 
+### 📊 GitHub Quantified
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00fff5,100:ff00ff&height=100&section=footer" alt="Footer wave" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DynaJoshy&show_icons=true&theme=tokyonight&title_color=00fff5&icon_color=ff00ff&text_color=c8f7ff&bg_color=1a1b27" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynaJoshy&layout=compact&theme=tokyonight&title_color=00fff5&text_color=c8f7ff&bg_color=1a1b27" height="175" />
 </p>
 
+---
+
+### 🧪 Featured Research & Projects
+* **[Project Name]** - Brief description of a high-impact ML project (e.g., *Computer vision pipeline for real-time object detection*).
+* **[Project Name]** - Brief description of a data-heavy project (e.g., *Elasticsearch-based semantic search engine*).
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff5,100:3498db&height=20&section=footer" width="100%" />
+</p>
 <p align="center" style="color:#00fff5;">
-  ✨ Turning data into neon-lit insights. ✨
+  <i>"Transforming raw entropy into actionable intelligence."</i>
 </p>
