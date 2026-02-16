@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=600&lines=AI;ML" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&width=600&lines=Software;Engineer" alt="Typing Animation"/>
 </p>
 
 
@@ -46,10 +46,17 @@ Build simple. Scale intelligently.
 ---
 
 ### 📊 GitHub Quantified
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DynaJoshy&show_icons=true&theme=tokyonight&title_color=00fff5&icon_color=ff00ff&text_color=c8f7ff&bg_color=1a1b27" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynaJoshy&layout=compact&theme=tokyonight&title_color=00fff5&text_color=c8f7ff&bg_color=1a1b27" height="175" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DynaJoshy&show_icons=true&theme=tokyonight&title_color=00fff5&icon_color=ff00ff&text_color=c8f7ff&bg_color=1a1b27" height="175" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynaJoshy&layout=compact&theme=tokyonight&title_color=00fff5&text_color=c8f7ff&bg_color=1a1b27" height="175" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
