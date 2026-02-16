@@ -15,28 +15,6 @@
 
 ---
 
-### 🧠 Profile Overview
-
-<p align="center">
-  <strong>Software Engineer | India</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-orange?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scalable%20Systems-green?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Exploring-LLMs-purple?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20DBs-pink?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20AI-yellow?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
-
-<p align="center">
-  <em>“Build simple. Scale intelligently.”</em>
-</p>
-
 
 
 ### 🛠️ Technical Ecosystem
