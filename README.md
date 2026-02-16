@@ -14,22 +14,29 @@
 ---
 
 ### 🧠 Profile Overview
-I am a Software Engineer based in India, specializing in bridging the gap between **complex data architectures** and **scalable ML solutions**. I build systems that don't just process data—they understand it.
 
-* 🔭 **Currently exploring:** LLM Fine-tuning and Vector Databases (Pinecone/Milvus).
-* ⚡ **Core Philosophy:** "If the data is the soul, the architecture is the nervous system."
-* 🌱 **Learning:** Advanced Reinforcement Learning and Cloud Native AI.
+Software Engineer | India  
 
----
+**Focus**
+Machine Learning • Data Engineering • Scalable Systems
+
+**Currently Exploring**
+LLMs • Vector Databases • Cloud-Native AI
+
+**Philosophy**
+Build simple. Scale intelligently.
+
 
 ### 🛠️ Technical Ecosystem
 
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **AI / Machine Learning** | `TensorFlow` `PyTorch` `Scikit-Learn` `OpenCV` |
-| **Data Engineering** | `PostgreSQL` `MongoDB` `Elasticsearch` `Firebase` |
-| **Cloud & DevOps** | `GCP` `Linux` `Git` `Docker` |
-| **Full Stack** | `Next.js` `Prisma` `Python` `C++` |
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,postgres,mongodb,gcp,docker,nextjs,linux,git&theme=dark" />
+</p>
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,gcp,postgres,mongodb,elastic,nextjs,prisma,git,linux&theme=dark" />
@@ -45,15 +52,6 @@ I am a Software Engineer based in India, specializing in bridging the gap betwee
 
 ---
 
-### 🧪 Featured Research & Projects
-* **[Project Name]** - Brief description of a high-impact ML project (e.g., *Computer vision pipeline for real-time object detection*).
-* **[Project Name]** - Brief description of a data-heavy project (e.g., *Elasticsearch-based semantic search engine*).
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff5,100:3498db&height=20&section=footer" width="100%" />
-</p>
 <p align="center" style="color:#00fff5;">
   <i>"Transforming raw entropy into actionable intelligence."</i>
 </p>
