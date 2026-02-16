@@ -26,7 +26,7 @@
 
 <p align="center">
   <!-- All main skill icons in one clean row -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,opencv,postgres,mongodb,elastic,firebase,gcp,docker,linux,git,nextjs,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,nextjs,tensorflow,pytorch,sklearn,opencv,postgres,mongodb,firebase,gcp,prisma,docker,linux,git,x&theme=dark" />
 </p>
 
 <p align="center">
