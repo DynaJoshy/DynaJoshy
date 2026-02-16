@@ -20,19 +20,18 @@
 ### 🛠️ Technical Ecosystem
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
+  <!-- Optional subtle GIF for flair -->
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80" alt="Coding Animation"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,postgres,mongodb,gcp,docker,nextjs,linux,git&theme=dark" />
+  <!-- All main skill icons in one clean row -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,opencv,postgres,mongodb,elastic,firebase,gcp,docker,linux,git,nextjs,prisma&theme=dark" />
 </p>
 
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,gcp,postgres,mongodb,elastic,nextjs,prisma,git,linux&theme=dark" />
+<p align="center">
+  <em>AI • Data Engineering • Cloud & DevOps • Full Stack</em>
 </p>
-
----
 
 ### 📊 GitHub Quantified
 <p align="center">
