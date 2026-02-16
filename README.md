@@ -16,16 +16,26 @@
 
 ### 🧠 Profile Overview
 
-Software Engineer | India  
+<p align="center">
+  <strong>Software Engineer | India</strong>
+</p>
 
-**Focus**
-Machine Learning • Data Engineering • Scalable Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-orange?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scalable%20Systems-green?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-**Currently Exploring**
-LLMs • Vector Databases • Cloud-Native AI
+<p align="center">
+  <img src="https://img.shields.io/badge/Exploring-LLMs-purple?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-pink?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20AI-yellow?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
 
-**Philosophy**
-Build simple. Scale intelligently.
+<p align="center">
+  <em>“Build simple. Scale intelligently.”</em>
+</p>
+
 
 
 ### 🛠️ Technical Ecosystem
@@ -46,16 +56,10 @@ Build simple. Scale intelligently.
 ---
 
 ### 📊 GitHub Quantified
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DynaJoshy&show_icons=true&theme=tokyonight&title_color=00fff5&icon_color=ff00ff&text_color=c8f7ff&bg_color=1a1b27" height="175" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynaJoshy&layout=compact&theme=tokyonight&title_color=00fff5&text_color=c8f7ff&bg_color=1a1b27" height="175" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DynaJoshy&show_icons=true&theme=tokyonight" height="200" />
+</p>
+
 
 
 ---
