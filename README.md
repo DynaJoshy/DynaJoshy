@@ -35,7 +35,7 @@
 
 ### 📊 GitHub Quantified
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DynaJoshy&show_icons=true&theme=tokyonight" height="200" />
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DynaJoshy)](https://github.com/DynaJoshy/github-readme-stats)
 </p>
 
 
