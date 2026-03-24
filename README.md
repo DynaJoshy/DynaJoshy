@@ -17,7 +17,7 @@
 
 
 
-### 🛠️ Technical Ecosystem
+### 🛠️ What I Explore(d)
 
 <p align="center">
   <!-- Optional subtle GIF for flair -->
