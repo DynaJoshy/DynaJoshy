@@ -33,17 +33,4 @@
   <em>AI • Data Engineering • Cloud & DevOps • Full Stack</em>
 </p>
 
-### 📊 GitHub Quantified
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DynaJoshy&show_icons=true&theme=radical" />
-</p>
-
-
-
-
----
-
-<p align="center" style="color:#00fff5;">
-  <i>"Transforming raw entropy into actionable intelligence."</i>
-</p>
